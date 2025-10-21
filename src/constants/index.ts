@@ -14,4 +14,7 @@ const TERMINAL_SKILLS = [
   "Docker",
 ];
 
-export { TERMINAL_SKILLS };
+const TERMINAL_WELCOME_MESSAGE =
+  "Welcome to my interactive portfolio terminal! Type 'help' to see a list of commands.";
+
+export { TERMINAL_SKILLS, TERMINAL_WELCOME_MESSAGE };
