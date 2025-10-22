@@ -11,7 +11,9 @@ export const Terminal = () => {
         </div>
         <div className="flex flex-col items-start gap-2">
           <p className="text-green-500">$ whoami</p>
-          <h1 className="mt-2 mb-4 text-4xl font-bold md:text-5xl">Bhuvi</h1>
+          <h1 className="mt-2 mb-4 text-4xl font-bold md:text-5xl">
+            Bhuvanesh KM
+          </h1>
           <p className="mb-2 text-gray-400">Full Stack Developer</p>
           <p className="text-green-500">$ skills</p>
           <div className="mt-2 flex flex-wrap gap-2">

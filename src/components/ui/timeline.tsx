@@ -42,8 +42,7 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
           My Professional Journey
         </h2>
         <p className="max-w-sm text-sm text-neutral-700 md:text-base dark:text-neutral-300">
-          I&apos;ve been working @ KPN Fresh an E-commerce company. Here&apos;s
-          a timeline of my journey.
+          Working @ KPN Fresh an E-commerce company.
         </p>
       </div>
 
