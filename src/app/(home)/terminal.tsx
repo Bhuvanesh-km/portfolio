@@ -2,7 +2,7 @@ import { TERMINAL_SKILLS } from "@/constants";
 
 export const Terminal = () => {
   return (
-    <div className="relative z-10 mx-4 w-full max-w-4xl">
+    <div className="relative z-10 mx-4 w-full max-w-4xl px-4">
       <div className="rounded-lg border border-gray-800 bg-black/50 p-6 backdrop-blur-lg">
         <div className="mb-4 flex items-center gap-2">
           <div className="h-3 w-3 rounded-full bg-red-500" />
