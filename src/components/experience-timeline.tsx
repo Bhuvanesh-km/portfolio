@@ -15,7 +15,7 @@ export function ExperienceTimeline() {
   const data = EXPERIENCE_TIMELINE.map((item: ExperienceTimelineProps) => ({
     title: item.title,
     content: (
-      <div>
+      <div className="mt-2" key={item.title}>
         {item.points.map((point, index) => (
           <div
             key={index}

@@ -16,7 +16,7 @@ export const Connect = () => {
             <div className="h-3 w-3 rounded-full bg-yellow-500" />
             <div className="h-3 w-3 rounded-full bg-green-500" />
           </div>
-          <div className="text-xs md:text-base lg:text-lg">
+          <div className="text-xs md:text-base">
             <p className="mb-2 text-green-500">$ contact --info</p>
             <h2 className="mb-8 text-3xl font-bold text-gray-200">
               Let&apos;s connect!
